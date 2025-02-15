@@ -72,7 +72,9 @@ FROM  blinkit_grocery_data
 ```
 
 
-![5](https://github.com/user-attachments/assets/eaad1a58-0952-4021-9632-0134e9bbecdf)
+
+
+
 
 
 
