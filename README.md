@@ -13,7 +13,7 @@ After exploring and evaluating dataset we found that [Fat_Content] column has so
 UPDATE blinkit_grocery_data
 SET Fat_Content = 
 	CASE 
-		WHEN Fat_Content IN('low fat' , 'LF') THEN 'Low Fat'
+	WHEN Fat_Content IN('low fat' , 'LF') THEN 'Low Fat'
         WHEN Fat_Content = 'reg' THEN 'Regular'
         ELSE Fat_Content
 	END ;
