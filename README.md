@@ -2,7 +2,9 @@
 
 ### To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs.
 
-
+### Tool Used:
+- Microsoft Excel
+- MySQL
 ### Data Cleaning : 
 After exploring and evaluating dataset we found that [Fat_Content] column has some rows where we have to replace 'LF' with 'Low Fat' and 'reg' has to replace with 'Regular'.
 
